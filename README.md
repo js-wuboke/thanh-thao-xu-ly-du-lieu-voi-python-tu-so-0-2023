@@ -22,3 +22,5 @@ vscode
 #### 01.4 - Làm việc với chuỗi
 
 #### 01.5 - Indexing và Slicing cho chuỗi
+
+#### 01.6 - String functions
