@@ -20,3 +20,5 @@ vscode
 #### 01.3 - Làm việc với số và biến
 
 #### 01.4 - Làm việc với chuỗi
+
+#### 01.5 - Indexing và Slicing cho chuỗi
