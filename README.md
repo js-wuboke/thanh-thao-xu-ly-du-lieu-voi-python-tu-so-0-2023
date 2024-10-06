@@ -14,3 +14,5 @@ vscode
   Manage -> Themes -> Color Theme -> Dark Modern
   Run code: Ctrl + Enter (Shift + Enter)
 ```
+
+#### 01.2 - Tải toàn bộ tài liệu khóa học
