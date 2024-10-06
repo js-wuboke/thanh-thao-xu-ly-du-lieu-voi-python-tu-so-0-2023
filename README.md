@@ -24,3 +24,5 @@ vscode
 #### 01.5 - Indexing và Slicing cho chuỗi
 
 #### 01.6 - String functions
+
+#### 01.7 - Toán tử so sánh & hàm Input
