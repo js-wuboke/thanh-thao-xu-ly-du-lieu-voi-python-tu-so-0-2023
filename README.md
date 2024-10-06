@@ -16,3 +16,5 @@ vscode
 ```
 
 #### 01.2 - Tải toàn bộ tài liệu khóa học
+
+#### 01.3 - Làm việc với số và biến
