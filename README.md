@@ -26,3 +26,9 @@ vscode
 #### 01.6 - String functions
 
 #### 01.7 - Toán tử so sánh & hàm Input
+
+#### 01.8 - Toán tử so sánh & hàm Input
+```
+delete ds store file
+find . -name ".DS_Store" -delete
+```
