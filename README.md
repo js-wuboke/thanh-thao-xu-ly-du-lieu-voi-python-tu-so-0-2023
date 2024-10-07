@@ -32,3 +32,7 @@ vscode
 delete ds store file
 find . -name ".DS_Store" -delete
 ```
+
+### 02 - Phần 2: Buil-in Data Structure & Control Flow Statements
+
+#### 02.1 - List & List Indexing, Slicing
