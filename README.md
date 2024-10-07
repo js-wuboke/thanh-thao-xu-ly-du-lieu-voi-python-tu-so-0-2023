@@ -36,3 +36,10 @@ find . -name ".DS_Store" -delete
 ### 02 - Phần 2: Buil-in Data Structure & Control Flow Statements
 
 #### 02.1 - List & List Indexing, Slicing
+
+#### 02.2 - List functions
+```
+Emoji vscode
+windows: windows key + . OR windows key + ;
+Mac: CTRL + CMD + Space
+```
